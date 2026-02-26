@@ -168,7 +168,14 @@ const publicKey = import.meta.env.VITE_EMAIL_PUBLIC_KEY
       tech: ['Payment Gateway', 'React Native', 'Node.js', 'MongoDB'],
       liveUrl: '#', 
       repoUrl: 'https://github.com/harishnair3107/Charity-Demo-App'  
-    }
+    },
+     {
+      title: 'NextGenAcademy',
+      description: 'NextGen Academy is a government-aligned skill development institute operating across Mumbai, Thane, and Navi Mumbai. The academy empowers economically backward youth through hands-on digital training, internships, and placement assistance — partnering with corporates and CSR organizations to create measurable social and economic impact.',
+      tech: ['React', 'JavaScript', 'UI/UX','Node.js'],
+      liveUrl: '#', 
+      repoUrl: 'https://github.com/harishnair3107/Academy-Web'  
+    },
   ]
 
   return (
