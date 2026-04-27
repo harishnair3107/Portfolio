@@ -163,11 +163,11 @@ const publicKey = import.meta.env.VITE_EMAIL_PUBLIC_KEY
       repoUrl: 'https://github.com/harishnair3107/paysita'  
     },
      {
-      title: 'Charity App',
-      description: 'An application for finding and donating to charities.',
-      tech: ['Payment Gateway', 'React Native', 'Node.js', 'MongoDB'],
-      liveUrl: '#', 
-      repoUrl: 'https://github.com/harishnair3107/Charity-Demo-App'  
+      title: 'Chemical Invetory App',
+      description: 'A comprehensive chemical inventory management system designed to streamline chemical tracking, management, and regulatory compliance for laboratories and research institutions.',
+      tech: ['React', 'JavaScript', 'UI/UX','Node.js'],
+      liveUrl: 'https://chemicalapp.netlify.app/', 
+      repoUrl: 'https://github.com/harishnair3107/Chemical-Inventory-App'  
     },
      {
       title: 'NextGenAcademy',
